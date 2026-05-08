@@ -6,7 +6,7 @@ authors = [
 description = "Open Source ERP"
 requires-python = ">=3.14"
 readme = "README.md"
-dynamic = ["version"]
+dynamic = ["version = "0.1.0"]
 dependencies = [
     # Core dependencies
     "Unidecode~=1.4.0",
